@@ -26,9 +26,7 @@ Experiences from building up watercooled 3d printer or how to make rigth choices
 
 **Alphacool Forums**
 
-***Question 1:***
-
-Hello guys,
+***Question 1:*** Hello guys,
 
 looking for advices to optimize watercooling build for 3d printer and choose rigth components.
 
@@ -56,8 +54,7 @@ Thanks for ideas!!
 
 PS: Some alphacool water pumps have this statement in description "Please use only in conjunction with clear transparent water cooling fluids. The particles and additives in Pastel liquids can clog and permanently damage water cooling products such as radiators, pumps, coolers and hoses.". I cant use any color premixed collants with this items or it is some special kind of colored coolants liquids and apply only for "pastels ones"?
 
-***Answer 1:***
-1 D5 pump should be all you need unless you are doing discrete loops. If you are cooling multiple components you don't need multiple loops. Just run it in series and you'll be fine and save some money and headaches. I'd recommend staying away from dyes just to be safe. I use Mystic Fog in my rig for the RGB effect but I accept the risk of clogs and higher maintenance involved. That rad should work fine for 500 watts. Those fans should be fine also.
+***Answer 1:*** 1 D5 pump should be all you need unless you are doing discrete loops. If you are cooling multiple components you don't need multiple loops. Just run it in series and you'll be fine and save some money and headaches. I'd recommend staying away from dyes just to be safe. I use Mystic Fog in my rig for the RGB effect but I accept the risk of clogs and higher maintenance involved. That rad should work fine for 500 watts. Those fans should be fine also.
 Edit: Just use this coolant for the best performance and longevity of the loop.
 
 
