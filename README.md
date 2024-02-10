@@ -8,7 +8,7 @@ Experiences from building up watercooled 3d printer or how to make rigth choices
 - D5/VPP655/maybe Apex pump
 - 2.4/4mm tubing (easy routing around printer)(polyurethane (10m) and optional silicone/pvc(2m) softer for printhead)
 - 3x12cm aluminium radiator for easy top mounting
-- brass nickel plated fittings (maybe stainless steel 304)(idealy aluminium fittings but not from Tameson :D) 
+- brass nickel plated fittings (optional stainless steel 304)(idealy aluminium but I was not able to find any in this world) 
 - clear coolant premix
 
 
