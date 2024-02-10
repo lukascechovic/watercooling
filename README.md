@@ -19,6 +19,8 @@ Experiences from building up watercooled 3d printer or how to make rigth choices
 
 *issue: Macro to solve multiple states controlling same pin (pump and radiator fans) [https://github.com/lukascechovic/watercooling/blob/main/macros/README.md](https://github.com/lukascechovic/watercooling/blob/main/macros/README.md)*
 
+*issue: Mounts for parts https://github.com/lukascechovic/watercooling/blob/main/cad_stl_files/README.md*
+
 ## TODO:
 
 *issue -2: Basic principles, Flow, loops, order of coolin blocks*
