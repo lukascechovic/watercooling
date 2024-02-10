@@ -1,4 +1,6 @@
-# *This macro runs automaticaly watercooling based on states and temperatures could be tuned as you wish
+# *This macro turning on and off watercooling of 3d printer
 
-## based on delayed macro which works as timer interrupt and run code, incorporate drivers, motors, extruder, temperatures, using dummy fans with fake nonused pins which can combine 
+## It is based on delayed macro which works as timer interrupt and run code which check activity adn temperatures of drivers, motors, extruder, using dummy fans with fake nonused pins which can combine behaviour of controller and heater fan. 
+
+## 
 
