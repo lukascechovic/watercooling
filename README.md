@@ -15,6 +15,14 @@ Experiences from building up watercooled 3d printer or how to make rigth choices
 
 ***Answer 1:*** Hi Lukas​, you can use all pump sin our assortment for full copper or aluminium loops. https://shop.alphacool.com/shop/pumpen/
 
+***Question 2:*** "What type of metal fittings other than aluminium  can be used in full aluminium loops?  Stainless steel, brass, other?"
+
+***Answer 2:*** Hi Lukas, thank you for getting back. Our fittings are all anodized, painted or nickel-plated and they have no contact with the liquid, so you can use any of our fittings in your loop.
+
+***Question 3:*** "It is possible to use multiple outputs/inputs same time on the Alphacool Eisdecke Laing DDC Acryl top V.2 or Alphacool Eisdecke DDC Acryl top V.4? For example if I need to have/create two loops?"
+
+***Answer 3:*** Hi Lukas​, I am sorry but it isn´t possible to use multiple Outs on the products. **It isn´t also recommended to make a parallel loop. If you want two different loops, you will need two pumps and reservoirs.
+**
 *issue 0: Starting with budget Mellow watercooling kit*
 
 *issue 1: Galvanic corrosion*
