@@ -23,6 +23,7 @@ Experiences from building up watercooled 3d printer or how to make rigth choices
 
 ***Answer 3:*** Hi Lukas​, I am sorry but it isn´t possible to use multiple Outs on the products. **It isn´t also recommended to make a parallel loop. If you want two different loops, you will need two pumps and reservoirs.
 **
+
 *issue 0: Starting with budget Mellow watercooling kit*
 
 *issue 1: Galvanic corrosion*
