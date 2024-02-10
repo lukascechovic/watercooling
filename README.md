@@ -26,7 +26,7 @@ Experiences from building up watercooled 3d printer or how to make rigth choices
 
 *issue 0: Starting with budget Mellow watercooling kit*
 
-*issue 1: Galvanic corrosion*
+*issue 1: Galvanic corrosion, active passive stainless steel*
 
 *issue 2: Loop/s topology*
 
