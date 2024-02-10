@@ -14,6 +14,8 @@ Experiences from building up watercooled 3d printer or how to make rigth choices
 
 ##  Reasoning for this advice should be found next if you wanna dig deeper this rabbit hole. 
 
+*issue -2: Basic principles, Flow, loops, order of coolin blocks*
+
 *issue -1: Official statements from infolines* [![[File](/research info gathered/README.md)](https://github.com/lukascechovic/watercooling/blob/main/research%20info%20gathered/README.md)](https://github.com/lukascechovic/watercooling/blob/main/research%20info%20gathered/README.md)
 
 *issue 0: Starting with budget Mellow watercooling kit?*
