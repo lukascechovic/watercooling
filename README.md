@@ -13,7 +13,7 @@ Experiences from building up watercooled 3d printer or how to make rigth choices
 
 *issue -1: Official statements from infolines* [![[File](/research info gathered/README.md)](https://github.com/lukascechovic/watercooling/blob/main/research%20info%20gathered/README.md)](https://github.com/lukascechovic/watercooling/blob/main/research%20info%20gathered/README.md)
 
-*issue 0: Starting with budget Mellow watercooling kit*
+*issue 0: Starting with budget Mellow watercooling kit?*
 
 *issue 1: Galvanic corrosion, active passive stainless steel*
 
