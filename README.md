@@ -37,4 +37,6 @@ Experiences from building up watercooled 3d printer or how to make rigth choices
 
 *issue 7: Price*
 
+*add screws parameters
+
 
