@@ -15,9 +15,9 @@ Experiences from building up watercooled 3d printer or how to make rigth choices
 ##  Reasoning for this advice should be found next if you wanna dig deeper.
 
 
-*issue: Official statements from infolines [https://github.com/lukascechovic/watercooling/tree/main/research%20info%20gathered](https://github.com/lukascechovic/watercooling/tree/main/research%20info%20gathered)*
+*issue: Official statements from infolines https://github.com/lukascechovic/watercooling/tree/main/research%20info%20gathered*
 
-*issue: Macro to solve multiple states controlling same pin (pump and radiator fans) [https://github.com/lukascechovic/watercooling/blob/main/macros/README.md](https://github.com/lukascechovic/watercooling/blob/main/macros/README.md)*
+*issue: Macro to solve multiple states controlling same pin (pump and radiator fans) https://github.com/lukascechovic/watercooling/blob/main/macros/README.md*
 
 *issue: Stl's parts https://github.com/lukascechovic/watercooling/blob/main/cad_stl_files/README.md*
 
