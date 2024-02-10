@@ -24,6 +24,38 @@ Experiences from building up watercooled 3d printer or how to make rigth choices
 ***Answer 3:*** Hi Lukas​, I am sorry but it isn´t possible to use multiple Outs on the products. **It isn´t also recommended to make a parallel loop. If you want two different loops, you will need two pumps and reservoirs.
 **
 
+**Alphacool Forums**
+
+***Question 1:***
+
+Hello guys,
+
+looking for advices to optimize watercooling build for 3d printer and choose rigth components.
+
+Setting:
+-> 500wats TDP max
+-> Aluminium cooling blocks on components
+-> M5 and M6 threads on aluminium blocks = fittings only for 4/2.5 and 6/4 mm tubing (OD/ID) (one moving component (printihead) needs to stay on 4/2.5 tubing due to moving restrictions and weigth)
+-> length of tubing max 10meters (7 components around the machine)
+-> difference between highest and lowest point on machine is 0.5m
+-> No hard space restrictions for radiator and pump (but more compact and visually pleasing solution is preffered)
+-> prefered silent (low/no vibration operation)
+
+Concerns:
+-> choosing rigth pump for length of the loop and tubing diametters
+-> choosing big enough radiator for the TDP (aluminium one due to alu blocks on components)
+-> topogy of the cooling (atleast two loops ? - one for 4/2.5 tubing and one for 6/4 tubing)
+
+So far I was thinking about:
+Radiator: Alphacool ES Aluminium 360 mm T27
+Fans: Yate Loon D12SH-12 with plug (2200rpm) ( 120x120x25mm )
+Pump: ??
+Topology: two loops
+
+Thanks for ideas!!
+
+PS: Some alphacool water pumps have this statement in description "Please use only in conjunction with clear transparent water cooling fluids. The particles and additives in Pastel liquids can clog and permanently damage water cooling products such as radiators, pumps, coolers and hoses.". I cant use any color premixed collants with this items or it is some special kind of colored coolants liquids and apply only for "pastels ones"?
+
 *issue 0: Starting with budget Mellow watercooling kit*
 
 *issue 1: Galvanic corrosion, active passive stainless steel*
