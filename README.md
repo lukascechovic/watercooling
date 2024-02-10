@@ -11,6 +11,7 @@ Experiences from building up watercooled 3d printer or how to make rigth choices
 - brass nickel plated fittings (maybe stainless steel 304)(idealy aluminium fittings but not from Tameson :D) 
 - clear coolant premix
 
+
   Reasoning for this advice should be found in next text if you wanna dig deeper this rabbit hole. 
 
 *issue -1: Official statements from infolines* [![[File](/research info gathered/README.md)](https://github.com/lukascechovic/watercooling/blob/main/research%20info%20gathered/README.md)](https://github.com/lukascechovic/watercooling/blob/main/research%20info%20gathered/README.md)
