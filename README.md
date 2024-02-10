@@ -1,4 +1,4 @@
-# Watercooling for 3d printers based on Vz235 build and Mellow aluminium motor, drivers and extruder watercooling blocks.
+# Watercooling for 3d printers based on Vz235 build and Mellow motor, drivers and extruder aluminium watercooling blocks.
 
 Experiences from building up watercooled 3d printer or how to make rigth choices for your build. Information based on internet "research" and communication with PC watercooling community, Alphacool and EKWB company info lines.
 
