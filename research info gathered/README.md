@@ -4,7 +4,7 @@ Experiences from building up watercooled 3d printer or how to make rigth choices
 *issue -1: Official statements from infolines*
 
 **EKWB**
-
+**Note:** Question about if EKWB D5/DDC pump can be used in aluminium loop, answer is **NO**
 ***Question 1:*** Hello, I would like to buy pupm from you into custom aluminium loop (alu blocks and radiators). I got confused with note in your products "This product should NOT be installed with any aluminum Fluid Gaming parts!" . Does it means I cannot use it in Aluminium containing loop? Could you please explaint to me that note and are your pumps suitable to work in custom all aluminium loop? Thanks. Have a nice day.
 
 ***Answer 1:*** Hello, thank you for contacting us. The mentioned product is not compatible with ALU parts. We used to sell products that were compatible with ALU products. Unfortunately, we no longer sell ALU products. We still have some ALU water blocks or fittings available. Unfortunately, radiators and water pumps are no longer available.
