@@ -1,5 +1,4 @@
-# *Picturec documenting vz235 full watercooled*
+# *This macro runs automaticaly watercooling based on states and temperatures could be tuned as you wish
 
-![Picture](https://github.com/lukascechovic/watercooling/blob/main/pictures/back_side_water_mount.png)
-![Picture](https://github.com/lukascechovic/watercooling/blob/main/pictures/printer_back.jpg)
+## based on delayed macro which works as timer interrupt and run code, incorporate drivers, motors, extruder, temperatures, using dummy fans with fake nonused pins which can combine 
 
