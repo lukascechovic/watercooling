@@ -28,10 +28,8 @@ Experiences from building up watercooled 3d printer or how to make rigth choices
 2. **Starting with budget Mellow watercooling kit?** If you dont wanna spend more than 70 euro just take Mellow watercooling kit and you will be happy and somehow youll find the way to ignore pump vibrations. But if we are building printer worth 2000 euros in items, are we wealthy enough to buy cheap things? Mellow water-cooling kit was 70 euro learning experience for me. I wish to be able skip that step.
 
 3. **Price?**
-   
- Mellow watercooling kit - 70 euro
-
- Alphacool D5-VPP655 set with reservoir, with 3x12 rad up to 160 euro (you can cut price with choosing Apex variant of the pump)
+ - 70 euro - Mellow watercooling kit
+ - up to 160 euro - Alphacool D5-VPP655 set with reservoir, with 3x12 rad up to 160 euro (you can cut price with choosing Apex variant of the pump)
  
 
 5. **Reservoir** just take any size you like. With bigger one its easier to start loop. Our loop has around 300 ml of fluid with all possible blocks and 3x12 radiator so its no big deal even with smallest reservoir.
