@@ -35,7 +35,7 @@ Experiences from building up watercooled 3d printer or how to make rigth choices
 4. **Reservoir** - just take any size you like. With bigger one its easier to start loop. Our loop has around 300 ml of fluid with all possible blocks and 3x12 radiator so its no big deal even with smallest reservoir.
 
 5. **Head pressure** - This parameter was harder one to evaluate as usually smaller pumps as DCC have bigger head pressure than D5 pumps. Head pressure is how the pump is able to overcome flow restrictions. But its also dependant from flow. If we watch only extremes from pump graphs the small DCC could seems better with higher head pressure than D5, but flow of the D5 is many times bigger than DCC with just small head pressure loss.
-6.  **Coolant** - "I'd recommend staying away from dyes just to be safe. I use Mystic Fog in my rig for the RGB effect but I accept the risk of clogs and higher maintenance involved." So if you wanna stay out of trouble just go for Clear coolant premix.
+6.  **Coolant** - I got this answer on Alphacool forums "I'd recommend staying away from dyes just to be safe. I use Mystic Fog in my rig for the RGB effect but I accept the risk of clogs and higher maintenance involved." So if you wanna stay out of trouble just go for Clear coolant premix.
    
 
 
