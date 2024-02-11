@@ -22,6 +22,11 @@ Experiences from building up watercooled 3d printer or how to make rigth choices
 6. Stl files of pump, radiator, tubing mounts https://github.com/lukascechovic/watercooling/tree/main/cad_stl_files
 7. Official statements from infolines EKWB and Alphacool https://github.com/lukascechovic/watercooling/tree/main/research%20info%20gathered
 
+## Underline
+
+1. Why choose D5 pump? 
+
+
 ## TODO:
 
 *issue : Starting with budget Mellow watercooling kit?*
