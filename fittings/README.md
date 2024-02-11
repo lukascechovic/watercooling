@@ -7,9 +7,9 @@
 
 ***Conclusion:** my searching for full aluminium fittings failed. Closest I got were items from https://tameson.com/collections/aluminum-push-on-fittings . But upod delivery I realised that item description is false and they contain steel parts. So based on Alphacool statement we should be fine with nickel plated brass fittings with premix coolant water*
 
-We can easily buy brass and copper nickel plated fittings and stainless steel 304 fittings where is theory neither of those should be used together with aluminium in one cooling loop.
+We can easily buy brass and copper nickel plated fittings and stainless steel 304 fittings, but in theory neither of those should be used together with aluminium in one cooling loop.
 
-EKWB block on this topic with lot of details https://www.ekwb.com/blog/aluminium-vs-copper/
+Here is EKWB blog on this topic with lot of details https://www.ekwb.com/blog/aluminium-vs-copper/
 
 EKWB as main player in PC watercooling is strct about this, they are even prohibiting to use their pumps in aluminium containing loops.
 
