@@ -23,11 +23,17 @@ Experiences from building up watercooled 3d printer or how to make rigth choices
 
 ## Underline
 
-1. **Why choose D5 pump?** It is PC watercooling industry standart. Even EKWB product video comparing D5 to other smaller DCC pump started with joke "just take D5". And yes, taking anything other than D5 is compromise. Pricewise there is nearly no difference as in smaller pump you pay for small form factor.
+1. **Why choose D5 pump?** It is PC watercooling industry standart. Even EKWB product video comparing D5 to other smaller DCC pump started with joke "just take D5". And yes, taking anything other than D5 is compromise. Pricewise there is nearly no difference as in smaller pump you pay for small form factor. Big one is that D5 is running at 24V so PC comunity cannot use full potential of this pump. But we can! 24V is our standart voltage :-) .
 
 2. **Starting with budget Mellow watercooling kit?** If you dont wanna spend more than 70 euro just take Mellow watercooling kit and you will be happy and somehow youll find the way to ignore pump vibrations. But if we are building printer worth 2000 euros in items, are we wealthy enough to buy cheap things? Mellow water-cooling kit was 70 euro learning experience for me. I wish to be able skip that step.
 
-3. **Head pressure**
+3. **Price?**
+ Mellow watercooling kit - 70 euro
+ Alphacool D5-VPP655 set with reservoir, with 3x12 rad up to 160 euro (you can cut price with choosing Apex variant of the pump)
+
+4. **Reservoir** just take any size you like. With bigger one its easier to start loop. Our loop has around 300 ml of fluid with all possible blocks and 3x12 radiator so its no big deal even with smallest reservoir.
+
+5.**Head pressure** This parameter was harder one to evaluate as usually smaller pumps as DCC have bigger head pressure than D5 pumps. Head pressure is how the pump is able to overcome flow restrictions. But its also dependant from flow. If we watch only extremes from pump graphs the small DCC could seems better with higher head pressure than D5, but flow of the D5 is many times bigger than DCC with just small head pressure loss.
 
 
 ## TODO:
