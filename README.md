@@ -11,7 +11,6 @@ Experiences from building up watercooled 3d printer or how to make rigth choices
 - brass nickel plated fittings (optional stainless steel 304)(idealy aluminium but I was not able to find any in this world) 
 - clear coolant premix
 
-
 ##  Reasoning for this advice should be found next if you wanna dig deeper.
 
 1. Mellow items for watercooling our 3D pritner https://github.com/lukascechovic/watercooling/tree/main/mellow_items
@@ -24,7 +23,11 @@ Experiences from building up watercooled 3d printer or how to make rigth choices
 
 ## Underline
 
-1. Why choose D5 pump? 
+1.** Why choose D5 pump?** It is PC watercooling industry standart. Even EKWB product video comparing D5 to other smaller DCC pump started with joke "just take D5". And yes, taking anything other than D5 is compromise. Pricewise there is nearly no difference as in smaller pump you pay for small form factor.
+
+2. **Starting with budget Mellow watercooling kit?** If you dont wanna spend more than 70 euro just take Mellow watercooling kit and you will be happy and somehow youll find the way to ignore pump vibrations. But if we are building printer worth 2000 euros in items, are we wealthy enough to buy cheap things? Mellow water-cooling kit was 70 euro learning experience for me. I wish to be able skip that step.
+
+3. **Head pressure**
 
 
 ## TODO:
