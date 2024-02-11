@@ -25,7 +25,7 @@ Note to the stainless steel, in our conditions should be active if I understand 
 
 ## Fitting diameters
 
-* As we had to use M5 and M6 sized fitting to fit into Mellow blocks*
+*As we have to use M5 and M6 sized fitting to fit into Mellow blocks, there is importatn constrain and that inner diametter of M5 sized fitting is aproximatelly 1.8mm independent from tubing connection 2.5mm or 4mm ID. So there is questionable need for 4/6mm tubing as there is up 12 fittings with M5 screws with 1.8mm opening.
 
 ![obrázok](https://github.com/lukascechovic/watercooling/assets/12114252/633d5a14-da8f-4478-9ac8-b5561ffab0f7)
 
