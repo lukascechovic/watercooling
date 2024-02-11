@@ -32,9 +32,9 @@ Experiences from building up watercooled 3d printer or how to make rigth choices
  - up to 160 euro - profi items ex. Alphacool D5-VPP655 set with reservoir, with 3x12 rad up to 160 euro (you can cut price with choosing Apex variant of the pump)
  
 
-4. **Reservoir** just take any size you like. With bigger one its easier to start loop. Our loop has around 300 ml of fluid with all possible blocks and 3x12 radiator so its no big deal even with smallest reservoir.
+4. **Reservoir** - just take any size you like. With bigger one its easier to start loop. Our loop has around 300 ml of fluid with all possible blocks and 3x12 radiator so its no big deal even with smallest reservoir.
 
-5. **Head pressure** This parameter was harder one to evaluate as usually smaller pumps as DCC have bigger head pressure than D5 pumps. Head pressure is how the pump is able to overcome flow restrictions. But its also dependant from flow. If we watch only extremes from pump graphs the small DCC could seems better with higher head pressure than D5, but flow of the D5 is many times bigger than DCC with just small head pressure loss.
+5. **Head pressure** - This parameter was harder one to evaluate as usually smaller pumps as DCC have bigger head pressure than D5 pumps. Head pressure is how the pump is able to overcome flow restrictions. But its also dependant from flow. If we watch only extremes from pump graphs the small DCC could seems better with higher head pressure than D5, but flow of the D5 is many times bigger than DCC with just small head pressure loss.
 
 
 ## TODO:
