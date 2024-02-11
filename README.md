@@ -19,7 +19,8 @@ Experiences from building up watercooled 3d printer or how to make rigth choices
 3. Tubing https://github.com/lukascechovic/watercooling/tree/main/tubing
 4. Loop topology https://github.com/lukascechovic/watercooling/tree/main/loop_topology
 5. Macros https://github.com/lukascechovic/watercooling/tree/main/macros
-6. Stl files 
+6. Stl files https://github.com/lukascechovic/watercooling/tree/main/cad_stl_files
+7. Official statements from infolines https://github.com/lukascechovic/watercooling/tree/main/research%20info%20gathered
 
 
 *issue: Official statements from infolines https://github.com/lukascechovic/watercooling/tree/main/research%20info%20gathered*
