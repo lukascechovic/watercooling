@@ -33,6 +33,8 @@ Experiences from building up watercooled 3d printer or how to make rigth choices
 
 *issue : Pump*
 
+*issue: Head pressure*
+
 *issue : Price*
 
 *add screws parameters
