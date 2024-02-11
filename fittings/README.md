@@ -29,6 +29,9 @@ Note to the stainless steel, in our conditions should be active if I understand 
 
 ![obrázok](https://github.com/lukascechovic/watercooling/assets/12114252/633d5a14-da8f-4478-9ac8-b5561ffab0f7)
 
+## Fitting type
+Push on compresion fittings looks like best option however even push in plastic ones, which you get with Mellow blocks, works fine for all types of tubing.
+
 Example of fittings:
 https://www.aliexpress.com/item/1005003562742686.html?spm=a2g0o.cart.0.0.8af938davIDzIX&mp=1
 https://www.aliexpress.com/item/1005001971376554.html?spm=a2g0o.cart.0.0.67b838daCjOm6Y&mp=1
