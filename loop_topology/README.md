@@ -1,4 +1,4 @@
-# *Starting point*
+# *Starting point "...just run it in series and you'll be fine and save some money and headaches."*
 *PC watercooling practise*
 
 1. You dont need high flow
