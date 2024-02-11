@@ -18,6 +18,6 @@ In the picture you can see theory for different tubing materials. I got PU, PVC 
 
 Around 7 meters for full watercooling Vz235, but I would go for 10 to be ready for some misstakes. 10m of PU and 2m Silicone or PVC
 
-##Note: After removing tubing from fitting somethimes is wise to cut small length before put it back.
+##Note: After removing tubing from fitting somethimes it is wise to cut used end of tubing before put it back.
 
    
