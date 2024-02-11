@@ -5,5 +5,11 @@
 
 ## Fittings material
 
-We can easily brass and copper nickel plated fittings and stainless steel 304 fittings where is theory neither of those should be used together with aluminium in same cooling curcuit.
+We can easily buy brass and copper nickel plated fittings and stainless steel 304 fittings where is theory neither of those should be used together with aluminium in one cooling loop.
+
+EKWB block on this topic with lot of details https://www.ekwb.com/blog/aluminium-vs-copper/
+
+EKWB as main player in PC watercooling is strct about this, they are even prohibiting to use their pumps in aluminium containing loops.
+
+On the other hand Alphacool as other player in this alows use all of their pumps in aluminium and copper loops and also using their brass nickel plated fittings in aluminium loops. ( 
 
