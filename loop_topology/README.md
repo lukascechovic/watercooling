@@ -10,7 +10,7 @@ Explanation:
 
 https://github.com/lukascechovic/watercooling/tree/main/research%20info%20gathered
 
-1. You dont need high flow = lower flow = more time in radiator = lower temperature of coolant
+1. You dont need high flow = lower flow = more time in radiator = lower temperature of coolant at radiator output
 2. One loop = "If you are cooling multiple components you don't need multiple loops. Just run it in series and you'll be fine and save some money and headaches."
 3. Order of items in loop is not important = you can find lots of video on Youtube for example https://www.youtube.com/watch?v=RnPB_q51iVk&t=130s
 4. Radiator is main player in capacity of the loop to disipate heat. And as there is a little price difference between 1x12, 2x12, 3x12 radiators. There is no good reason to not take 3x12 as futureproof choice for your build. You can have 3x12 rad from renowed brand for as little as 32 eur. Bigger radiator is easier to mount on the top of the build and also cool whole electronics.
