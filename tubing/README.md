@@ -3,7 +3,7 @@
 1. 4mm OD fitting on aluminium cooling blocks from Mellow with M5 and M6 (driver block) threads, push in with plastic parts
 
 ## Tubing Diameter
-   As inner diameter of M5 fitting is around 1.78mm is questionable need for wider tubing as 6mm with 4mm ID.
+   As inner diameter of M5 fitting is around 1.78mm is questionable need for wider tubing like 6mm with 4mm ID.
 
 ## Tubing material
 
