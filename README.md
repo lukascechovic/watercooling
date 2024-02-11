@@ -22,35 +22,16 @@ Experiences from building up watercooled 3d printer or how to make rigth choices
 6. Stl files of pump, radiator, tubing mounts https://github.com/lukascechovic/watercooling/tree/main/cad_stl_files
 7. Official statements from infolines EKWB and Alphacool https://github.com/lukascechovic/watercooling/tree/main/research%20info%20gathered
 
-
-*issue: Official statements from infolines https://github.com/lukascechovic/watercooling/tree/main/research%20info%20gathered*
-
-*issue: Macro to solve multiple states controlling same pin (pump and radiator fans) https://github.com/lukascechovic/watercooling/blob/main/macros/README.md*
-
-*issue: Stl's parts https://github.com/lukascechovic/watercooling/blob/main/cad_stl_files/README.md*
-
-*issue: Mellow items for watercooling 3d printers https://github.com/lukascechovic/watercooling/tree/main/mellow_items
-
 ## TODO:
-
-*issue -2: Basic principles, Flow, loops, order of coolin blocks*
 
 *issue 0: Starting with budget Mellow watercooling kit?*
 
-*issue 1: Galvanic corrosion, metal chart, active passive stainless steel*
-
-*issue 2: Loop/s topology*
-
-*issue 3: Radiator*
-
 *issue 4: Pump*
-
-*issue 5: Tubing*
-
-*issue 6: Fittings*
 
 *issue 7: Price*
 
 *add screws parameters
+
+*Chatgpt please make this text readable
 
 
