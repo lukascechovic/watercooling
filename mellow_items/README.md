@@ -1,6 +1,6 @@
 # *Mellow watercooling items for 3d printers
 
-*Comment:* *Cheap and complete set, everything you need to start. Concerns are low quality controll and pump with lots of vibrations. If you think you can somehow isolate those vibrations, you most probably dont, atleast I wasnt succesfull"
+*Comment:* *Cheap and complete set, everything you need to start. Concerns are low quality controll and pump with lots of vibrations. If you think you can somehow isolate those vibrations, you most probably dont, atleast I wasnt succesfull."
 
 ## Complete basic watercooling kit
 
