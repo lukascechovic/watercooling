@@ -11,5 +11,5 @@ EKWB block on this topic with lot of details https://www.ekwb.com/blog/aluminium
 
 EKWB as main player in PC watercooling is strct about this, they are even prohibiting to use their pumps in aluminium containing loops.
 
-On the other hand Alphacool as other player in this alows use all of their pumps in aluminium and copper loops and also using their brass nickel plated fittings in aluminium loops. (https://github.com/lukascechovic/watercooling/tree/main/research%20info%20gathered). 
+On the other hand Alphacool as other player in this alows use all of their pumps in aluminium and copper loops and also using their brass nickel plated fittings in aluminium loops. (https://github.com/lukascechovic/watercooling/tree/main/research%20info%20gathered). But to be fair their statement "Our fittings are all anodized, painted or nickel-plated and they have no contact with the liquid, so you can use any of our fittings in your loop." sounds little weird to me.
 
