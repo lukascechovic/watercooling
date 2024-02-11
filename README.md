@@ -14,6 +14,13 @@ Experiences from building up watercooled 3d printer or how to make rigth choices
 
 ##  Reasoning for this advice should be found next if you wanna dig deeper.
 
+1. Mellow items https://github.com/lukascechovic/watercooling/tree/main/mellow_items
+2. Fittings https://github.com/lukascechovic/watercooling/tree/main/fittings
+3. Tubing https://github.com/lukascechovic/watercooling/tree/main/tubing
+4. Loop topology https://github.com/lukascechovic/watercooling/tree/main/loop_topology
+5. Macros https://github.com/lukascechovic/watercooling/tree/main/macros
+6. Stl files 
+
 
 *issue: Official statements from infolines https://github.com/lukascechovic/watercooling/tree/main/research%20info%20gathered*
 
