@@ -21,6 +21,8 @@ Experiences from building up watercooled 3d printer or how to make rigth choices
 
 *issue: Stl's parts https://github.com/lukascechovic/watercooling/blob/main/cad_stl_files/README.md*
 
+*issue: Mellow items for watercooling 3d printers https://github.com/lukascechovic/watercooling/tree/main/mellow_items
+
 ## TODO:
 
 *issue -2: Basic principles, Flow, loops, order of coolin blocks*
