@@ -20,7 +20,7 @@ Experiences from building up watercooled 3d printer or how to make rigth choices
 4. Loop topology https://github.com/lukascechovic/watercooling/tree/main/loop_topology
 5. Macros to solve multiple states controlling same pin (pump and radiator fans) https://github.com/lukascechovic/watercooling/tree/main/macros
 6. Stl files of pump, radiator, tubing mounts https://github.com/lukascechovic/watercooling/tree/main/cad_stl_files
-7. Official statements from infolines https://github.com/lukascechovic/watercooling/tree/main/research%20info%20gathered
+7. Official statements from infolines EKWB and Alphacool https://github.com/lukascechovic/watercooling/tree/main/research%20info%20gathered
 
 
 *issue: Official statements from infolines https://github.com/lukascechovic/watercooling/tree/main/research%20info%20gathered*
