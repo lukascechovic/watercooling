@@ -39,14 +39,6 @@ Experiences from building up watercooled 3d printer or how to make rigth choices
 
 ## TODO:
 
-*issue : Starting with budget Mellow watercooling kit?*
-
-*issue : Pump*
-
-*issue: Head pressure*
-
-*issue : Price*
-
 *add screws parameters
 
 *Chatgpt please make this text readable
