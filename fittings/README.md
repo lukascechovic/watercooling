@@ -23,5 +23,10 @@ EKWB picture
 Note to the stainless steel, in our conditions should be active if I understand it well.
 ![active_passive_steel](https://github.com/lukascechovic/watercooling/assets/12114252/8e20c115-9d38-43ed-864a-3a504bc31669)
 
+## Fitting diameters
+
+* As we had to use M5 and M6 sized fitting to fit into Mellow blocks*
+
+![obrázok](https://github.com/lukascechovic/watercooling/assets/12114252/633d5a14-da8f-4478-9ac8-b5561ffab0f7)
 
 
