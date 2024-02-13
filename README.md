@@ -40,6 +40,7 @@ Experiences from building up watercooled 3d printer or how to make rigth choices
 
 
 ## TODO:
+*add BOM
 
 *add screws parameters
 
