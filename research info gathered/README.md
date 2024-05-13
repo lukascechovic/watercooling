@@ -11,6 +11,10 @@ Experiences from building up watercooled 3d printer or how to make rigth choices
 
 ***Answer 1:*** Hello, thank you for contacting us. The mentioned product is not compatible with ALU parts. We used to sell products that were compatible with ALU products. Unfortunately, we no longer sell ALU products. We still have some ALU water blocks or fittings available. Unfortunately, radiators and water pumps are no longer available.
 
+***Question 2:*** Can the 'EK-Classic Pump Reservoir 160 SPC PWM' be used in an aluminum loop?
+
+***Answer 2:*** The EK-Classic Pump Reservoir 160 SPC PWM can be used in an aluminum loop but you will have to replace the nickel-plated brass plug with a plastic one.
+
 **Alphacool**
 
 ***Question 1:*** Hello, I'm looking for pump into full alluminium loop. Its for custom machine with low diametter tubing (4 or 6 mm) in total length up to 10m, with 7 small aluminium blocks. If I'm not wrong I should look for higher head meters value pump. I'm searching for answers for several days but no luck for now. Last info I got is that I cannot use even stainless steel parts pump with aluminium. VPP655 pumps are marked as ceramic and plastic (Kunststoff;Keramik;) but on video they've definitely got some other metal inside. What pumps I can use in aluminium containing loop? Thanks for answer. Have a nice day.

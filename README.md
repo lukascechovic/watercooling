@@ -7,7 +7,7 @@ Experiences from building up watercooled 3d printer or how to make rigth choices
 - one big loop
 - D5/VPP655 (maybe Apex pump as cheaper D5 compatible variant)
 - 2.4/4mm tubing (easy routing around printer)(polyurethane (10m) and optional silicone/pvc(2m) softer for printhead)
-- 3x12cm aluminium radiator for easy top mounting (price 2eur more than 1x12 rad)
+- 3x12cm aluminium radiator for easy top mounting (price 2eur more than 2x12 rad)
 - brass nickel plated fittings (optional stainless steel 304)(idealy aluminium but I was not able to find any in this world) 
 - clear coolant premix
 
@@ -40,6 +40,7 @@ Experiences from building up watercooled 3d printer or how to make rigth choices
 
 
 ## TODO:
+*add BOM
 
 *add screws parameters
 
