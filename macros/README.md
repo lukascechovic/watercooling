@@ -4,7 +4,7 @@
 
 ## It is based on delayed macro which works as timer interrupt and run code which check activity and temperatures of drivers, motors, extruder, using dummy fans with fake nonused pins which can combine behaviour of controller and heater fan. 
 
-##printer.cfg and leds.cfg to clarify pin assignement
+## printer.cfg and leds.cfg to clarify pin assignement
 
 
 
